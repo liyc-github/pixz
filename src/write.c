@@ -6,12 +6,6 @@
 
 #pragma mark TYPES
 
-typedef struct io_block_t io_block_t;
-struct io_block_t {
-    lzma_block block;
-    uint8_t *input, *output;
-    size_t insize, outsize;
-};
 
 
 #pragma mark GLOBALS
