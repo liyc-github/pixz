@@ -7,7 +7,6 @@
 #pragma mark TYPES
 
 
-
 #pragma mark GLOBALS
 
 #define LZMA_CHUNK_MAX (1 << 16)
